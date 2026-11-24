@@ -1,0 +1,26 @@
+{
+  "unit_and_integration_tests": {
+    "passed": 30,
+    "failed": 0
+  },
+  "numeric_checks": {
+    "passed": 556,
+    "total": 556
+  },
+  "r74_checks": {
+    "passed": 157,
+    "total": 157
+  },
+  "r76_complete_pass": true,
+  "external_replay": {
+    "solves": 80,
+    "daily_replays": 29220,
+    "matches_archive_bytes": true
+  },
+  "statistics_match_archive_bytes": true,
+  "figures": {
+    "data_figures_pixel_identical": true,
+    "schematic_build_passed": true
+  },
+  "scope": "结果核验记录摘要，不包含代码、模型或原始实验输入"
+}
